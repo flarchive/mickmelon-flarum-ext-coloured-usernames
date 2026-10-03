@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of mickmelon/flarum-ext-coloured-usernames.** Not for installation: use [Packagist](https://packagist.org/packages/mickmelon/flarum-ext-coloured-usernames) or the [upstream repository](https://github.com/MickMelon/flarum-ext-coloured-usernames).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/mickmelon-flarum-ext-coloured-usernames/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.4`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/mickmelon-flarum-ext-coloured-usernames/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-12-30 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/mickmelon-flarum-ext-coloured-usernames/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-07-20 | `^1.0.4` | [Browse](https://github.com/flarchive/mickmelon-flarum-ext-coloured-usernames/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/mickmelon-flarum-ext-coloured-usernames.json](https://github.com/flarchive/archive-index/blob/main/packages/mickmelon-flarum-ext-coloured-usernames.json)
 
